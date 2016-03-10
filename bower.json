@@ -1,9 +1,28 @@
+
 {
-  "name": "jgallery",
-  "description": "jgallery",
-  "license": "MIT",
-  "private": true,
-  "dependencies": {
-    "jquery.jgallery": ""
-  }
+  "name": "jquery.jgallery",
+  "main": "jgallery.js",
+  "version": "1.5.5",
+  "homepage": "https://github.com/gcalcagno/jgallery",
+  "authors": [
+  ],
+  "description": "jgallery - jQuery photo gallery with albums and preloader.",
+  "keywords": [
+    "sliding",
+    "slider",
+    "animation",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://jgallery.jakubkowalczyk.pl/"
+    }
+  ],
+  "ignore": [
+    "**/.*",
+    "dist",
+    "src"
+  ]
 }
